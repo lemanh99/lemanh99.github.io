@@ -277,6 +277,11 @@ img {
 }
 .skills__text {
   margin-bottom: var(--mb-4);
+  font-weight: 600;
+}
+
+.skills__info {
+  margin-bottom: var(--mb-4);
 }
 .skills__data {
   display: flex;
@@ -425,7 +430,7 @@ img {
   opacity: 0.8;
   font-weight: 600;
   font-size: 15px;
-  position: relative;
+  /* position: relative; */
   /* padding-left: 26px; */
 }
 
