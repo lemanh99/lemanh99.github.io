@@ -60,10 +60,12 @@ sr.reveal(".experience__data_right", {
   interval: 200,
 });
 /*SCROLL WORK*/
-sr.reveal(".work_info", { origin: "top", reset: true, interval: 200 });
+sr.reveal(".work_info", { origin: "top", reset: false, interval: 200 });
 
 /*SCROLL CONTACT*/
-sr.reveal(".contacts__icon", { origin: "top", reset: true, interval: 200 });
+sr.reveal(".contacts__icon", { origin: "top", reset: false, interval: 200 });
+/*SCROLL FOOTER */
+sr.reveal(".footer__title", { origin: "left", reset: true, interval: 500 });
 
 $(document).ready(function () {
   $(window).scroll(function () {
