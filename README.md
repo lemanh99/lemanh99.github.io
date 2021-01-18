@@ -25,4 +25,4 @@ $ Cấu trúc thư mục
 <a id="p2"></a> 
 # Tài liệu tham khảo
 
-1. Youtube: [RESPONSIVE Personal PORTFOLIO Website HTML CSS And JAVASCRIPT-Kênh Bedimcode] (https://youtu.be/AKNvTxWOdKw)
+1. Youtube: [RESPONSIVE Personal PORTFOLIO Website HTML CSS And JAVASCRIPT-Kênh Bedimcode](https://youtu.be/AKNvTxWOdKw)
